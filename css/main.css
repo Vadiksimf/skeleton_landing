@@ -139,6 +139,10 @@ hr {
     transform: rotate(-10deg);
 }
 
+.tilt {
+    opacity: .85;
+}
+
 .wb {
     padding-top: 35px;
     margin-bottom: 0;
@@ -153,6 +157,10 @@ hr {
     padding-top: 70px;
     padding-bottom: 70px;
     text-align: center;
+}
+
+#lg img {
+    opacity: .7;
 }
 
 #lg h4 {
